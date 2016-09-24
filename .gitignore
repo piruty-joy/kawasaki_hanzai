@@ -1,0 +1,17 @@
+# ignore .DS_Store
+.DS_Store
+
+# ignore Intellij project directory
+.idea/
+
+# ignore downloaded or generated files
+csv/*.csv
+pdf/*.pdf
+txt/*.txt
+
+# ignore files related to ipython notebook
+*.ipynb
+.ipynb_checkpoints
+
+# ignore Apache Tike
+tika-app-1.13.jar
